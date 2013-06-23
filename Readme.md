@@ -16,4 +16,4 @@ This project uses
 
 ### Project roadmap
 
-* For the project roadmap, please see the [MarkdownWiki Wiki](https://github.com/lorddev/markdownwiki/wiki)
+For the project roadmap, please see the [MarkdownWiki Wiki](https://github.com/lorddev/markdownwiki/wiki)
