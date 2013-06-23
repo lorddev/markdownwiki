@@ -16,6 +16,4 @@ This project uses
 
 ### Project roadmap
 
-* Customize markdown directory location via web.config
-* Optional auto-generation of TOC based on all files in the `/markdown` folder.
-* Fix Markdown bugs in sidebar which prevent lists, anchors, and Twitter Bootstrap nav-list from playing nicely together.
+* For the project roadmap, please see the [MarkdownWiki Wiki](https://github.com/lorddev/markdownwiki/wiki)
