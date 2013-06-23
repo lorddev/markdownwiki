@@ -1,6 +1,6 @@
 # MarkdownWiki 1.0
 
-Have you ever found yourself working on a project wiki that was intended for consumption by teams of developers, while using a wiki or documentation format that makes copy-and-paste code snippets difficult? (For example, quotes in code snippets automatically converted to &lquo;smart quotes&rquo;, which don't do anybody any good.)
+Have you ever found yourself working on a project wiki that was intended for consumption by teams of developers, while using a wiki or documentation format that makes copy-and-paste code snippets difficult? (For example, quotes in code snippets automatically converted to &ldquo;smart quotes&rdquo;, which don't do anybody any good.)
 
 With [Markdown](http://daringfireball.net/projects/markdown/), all you have to do to identify something as code is to indent it. So citing code is just like writing it.
 
