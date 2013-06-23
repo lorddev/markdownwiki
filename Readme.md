@@ -4,7 +4,7 @@ Have you ever found yourself working on a wiki that was intended for code docume
 
 With Markdown, all you have to do to identify something as code is to indent it. So citing code is just like writing code!
 
-I love GitHub's Markdwon-based wikis, and use them regularly. But sometimes you might find yourself working on a project that's not hosted on GitHub, wishing you had the same Markdown-based wiki editing functionality. With this project, you can have it.
+I love GitHub's Markdwon-based wikis, and [use them regularly](https://github.com/lorddev/coding-standards/wiki). But sometimes you might find yourself working on a project that's not hosted on GitHub, and you wish you had the same Markdown-based wiki editing functionality. With this project, you can have it.
 
 MarkdownWiki is a free, lightweight alternative to Github Wikis (which are awesome). It is offered under GPLv3, and you are invited to participate in its improvement and customization!
 
