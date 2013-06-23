@@ -1,0 +1,13 @@
+﻿@model LordDesign.MarkdownWiki.WikiDto
+@{
+    ViewBag.Title = Model.Title;
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@* Output the model directly *@
+@Html.Raw(Model.Content)
+
+@section Sidebar
+{
+    @Html.Raw(Model.Sidebar)
+}
