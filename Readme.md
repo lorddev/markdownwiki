@@ -4,7 +4,7 @@ Have you ever found yourself working on a project wiki that was intended for con
 
 With [Markdown](http://daringfireball.net/projects/markdown/), all you have to do to identify something as code is to indent it. So citing code is just like writing it.
 
-I love GitHub's Markdown-based wikis, and [use them regularly](https://github.com/lorddev/coding-standards/wiki). But sometimes you might find yourself working on a project that's not hosted on GitHub, and you wish you had the same Markdown-based wiki editing functionality. With this project, you can have it.
+I love GitHub's Markdown-based wikis, and [use them regularly](https://github.com/lorddev/coding-standards/wiki). But sometimes you might find yourself working on a project that's not hosted on GitHub, and you wish you had the same Markdown-based wiki editing functionality. With this project, you can have it. (And in the sad case of moving a repo away from GitHub, now you can take your Wiki with you!)
 
 MarkdownWiki is a free, lightweight alternative to Github Wikis (which are awesome). You are cordially invited to participate in its improvement and customization.
 
